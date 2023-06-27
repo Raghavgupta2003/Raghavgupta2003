@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FdevSouvik%2FdevSouvik%2Fmaster%2Fgif3.gif&tbnid=2qrAUXqY9dCUsM&vet=12ahUKEwjnzJXk7eP_AhXbzqACHU-ZAYcQMyhEegUIARCPAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2FDD4You&docid=T3cB76EfDxjhnM&w=800&h=600&q=gif%20images%20for%20github&ved=2ahUKEwjnzJXk7eP_AhXbzqACHU-ZAYcQMyhEegUIARCPAQ">
-
+<img align="right" width=400 alt="coding" src="https://www.google.com/search?sxsrf=APwXEdelcNXPSYy6R7OzWHv10XLEKaEsSA:1687883847329&q=gif+images+for+github+coder&tbm=isch&sa=X&ved=2ahUKEwjGnpGp8eP_AhVcz6ACHcyaCuMQ0pQJegQIDBAB&biw=1280&bih=601&dpr=1.5#imgrc=dbrfb5dvHO4gVM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavgupta2003&label=Profile%20views&color=0e75b6&style=flat" alt="raghavgupta2003" /> </p>
 
 - 🔭 I’m currently working on **Programming Languages**
